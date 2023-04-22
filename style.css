@@ -1,0 +1,73 @@
+body {
+    background-image: url(https://images.pexels.com/photos/2088170/pexels-photo-2088170.jpeg?cs=srgb&dl=pexels-eberhard-grossgasteiger-2088170.jpg&fm=jpg);
+    background-position: 0%;
+    background-size: cover;
+    align-items: center;
+    margin: 310px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+h2{
+    font-family: sans-serif;
+}
+form {
+
+    background-image: url(https://images.pexels.com/photos/6985001/pexels-photo-6985001.jpeg?cs=srgb&dl=pexels-codioful-%28formerly-gradienta%29-6985001.jpg&fm=jpg);
+    margin: 200px;
+    background-size: 136%;
+    background-repeat: no-repeat;
+    color: black;
+    padding: 10px;
+    border: 5px;
+    border-style: double;
+    border-radius: 20px;
+    border-color: green;
+    text-align: center;
+}
+
+input[type=text] {
+    box-sizing: border-box;
+    border: 2px solid orangered;
+    background-color: bisque;
+
+
+}
+
+input {
+    box-sizing: border-box;
+    border: 2px solid orangered;
+    background-color: bisque;
+
+
+}
+button{
+
+    position: relative;
+    width: 200px;
+    padding: 15px 0px;
+    text-align: center;
+    margin: 20px 10px;
+    font-weight:2px bold #3eff37;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    overflow: hidden;
+
+
+
+}
+span{
+background: #3eff37;
+height: 100%;
+width: 0;
+position: absolute;
+left: 0;
+bottom: 0;
+
+
+
+
+}
